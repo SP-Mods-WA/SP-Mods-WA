@@ -1,5 +1,5 @@
 {
-	"version": "32.0",
+	"version": "19.0",
 	"download": "https://spwhatsappadmin.blogspot.com",
 	"update": [
 		{
