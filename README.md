@@ -1,10 +1,1 @@
-{
-  "records": [
-    {
-      "version": "SP WhatsApp V32",
-      "code": 34,
-      "url": "https://spwhatsappadmin.blogspot.com",
-      "changelog": "- Drawer Home - Multi Account - Send Audio as Voice Note"
-    }
-  ]
-}
+{'ver1':'32', 'ver2':', 'ver3':'\n• Added Download for View Once images/video\n• Added View All Messages sent by contact in group (click on name)\n• Added Option to change Online Dot color (SPMods > Home Screen > Rows)\n• Fixed Archive Chat not showing on group tab\n• Fixed RC-TELEGRAM X recording box bug\n• Fixed Crash when trying to archive a hidden chat\n• Fixed Large Empty space in Hidden chat and archived chat\n• Fixed Groups with "Admin Only" still showing send message box in some entry styles\n• Many other bug fixes and improvements\n', 'dli':'https://spwhatsappadmin.blogspot.com', 'exp895':'170', 'exp900':'45'}
