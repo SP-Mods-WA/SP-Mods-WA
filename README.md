@@ -1,9 +1,9 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.8.2",
+      "version": "SP WhatsApp V32",
       "code": 34,
-      "url": "https://google.com",
+      "url": "https://spwhatsappadmin.blogspot.com",
       "changelog": "- Drawer Home - Multi Account - Send Audio as Voice Note"
     }
   ]
