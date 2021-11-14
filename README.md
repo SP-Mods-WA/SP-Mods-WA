@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SP-Mods-WA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SP-Mods-WA/SP-Mods-WA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{
+  "records": [
+    {
+      "version": "DELTA YOWA v3.8.2",
+      "code": 34,
+      "url": "https://bit.ly/DELTA382",
+      "changelog": "- Drawer Home - Multi Account - Send Audio as Voice Note"
+    }
+  ]
+}
