@@ -1,4 +1,4 @@
-{ "version": "19.0",
+{ "version": "31.0",
     "download": "https://spwhatsappadmin.blogspot.com",
      "update":
      [ { "languaje": "en",
