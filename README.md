@@ -8,4 +8,4 @@
         { "languaje": "pt", "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/SP-Mods-WA/SP-Mods-WA-patch-2/Chagelog"
    }
    ]
-  }
+ }
