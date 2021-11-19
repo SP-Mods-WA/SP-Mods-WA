@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>html, body{background-color: #FFFFFF; color: #303030;}body{padding-top: 1%; padding-left: 2%; padding-right: 2%; font-size: 14px; font-family: 'Roboto', 'Helvetica Neue', sans-serif;}.title{display: block; width: 100%; text-align: center; font-size: 16px;}p{line-height: 2; display: block;}b{font-size: large;}point, baseup, fixed{padding: .2rem .4rem; border-radius: .25rem;}point{color: #4f6e33; background-color: #e9f3e5;}baseup{background-color: #d5dee2; color: #506874; font-weight: bold}fixed{color: #c7254e; background-color: #f9f2f4}date{font-family: monospace;}</style>
+</head>
+
+<body>
+
+        <h1>SP WhatsApp v32</h1>
+    <date>2021/11/20</date>
+    <hr/>
+    <p>
+	
+<baseup>Base</baseup> Updated to 2.21.19.21</br>
+
+<point>Added</point> Switch Account</br>
+<point>Added</point> Fake Voice duration</br>
+
+<fixed>Fixed</fixed> Download for View Once images/video</br>
+<fixed>Fixed</fixed> Large Empty space in Hidden chat and archived chat </br>
+<fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
+<fixed>Misc</fixed> Other fixes and improvements
+	
+	</p>
+    <hr/>
+
+</body>
+
+</html>
