@@ -7,32 +7,27 @@
 
 <body>
 
-    <h1>SP WhatsApp v31</h1>
-    <date>2021/11/13</date>
+    <h1>SP WhatsApp V33</h1>
+    <date>2021/11/30</date>
     <hr/>
     <p>
 	
-<baseup>Base Update</baseup> Updated to 2.21.19.21</br>
-<point>Added</point> Download for View Once images/video</br>
-<point>Added</point> Share SP WhatsApp</br>
-<point>Added</point> Boom Text</br>
-<point>Added</point> Main Screen Side Menu</br>
-<point>Added</point> Extra Features (Fake Admin/Auto Forward)</br>
 
-<point>Added</point> Animation And Effect Style</br>
-<point>Added</point> View All Messages sent by contact in group (click on name)</br>
-<point>Added</point> Option to change Online Dot color (SP Mods > Home Screen > Rows)</br>
-<fixed>Fixed</fixed> Archive Chat not showing on group tab</br>
-<fixed>Fixed</fixed> RC-TELEGRAM X recording box bug</br>
-<fixed>Fixed</fixed> Crash when trying to archive a hidden chat</br>
-<fixed>Fixed</fixed> Large Empty space in Hidden chat and archived chat </br>
-<fixed>Fixed</fixed> Groups with "Admin Only" still showing send message box in some entry styles</br>
-<fixed>Misc</fixed> Many other fixes and improvements that we forgot :p<br/>
+<point>Added</point> Send audio as a voice note</br>
+<point>Added</point> Remove '@' On/Off Button</br>
+<point>Added</point> 
+Remove Business Product Text On/Off Button</br>
+<fixed>Fixed</fixed> Location Caption Enabled /Disabled Button not working</br>
+<fixed>Fixed</fixed> Bot Always Crash Fix Button Not Working </br>
+<fixed>Fixed</fixed> Switch Account Button Not Showing</br>
+<fixed>Fixed</fixed> Hide Call Buttons from conversation action bar not working</br>
+<fixed>Fixed</fixed> Whatsapp lock not working for pattern and PIN</br>
 <fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
 <fixed>Misc</fixed> Other fixes and improvements
 	
 	</p>
     <hr/>
+	
 	
 	
 
