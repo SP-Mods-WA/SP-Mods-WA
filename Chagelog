@@ -7,23 +7,61 @@
 
 <body>
 
-        <h1>SP WhatsApp v32</h1>
-    <date>2021/11/20</date>
+            <h1>SP WhatsApp V35.0</h1>
+    <date>2022/02/08</date>
     <hr/>
     <p>
 	
-<baseup>Base</baseup> Updated to 2.21.19.21</br>
 
-<point>Added</point> Switch Account</br>
-<point>Added</point> Fake Voice duration</br>
 
-<fixed>Fixed</fixed> Download for View Once images/video</br>
-<fixed>Fixed</fixed> Large Empty space in Hidden chat and archived chat </br>
-<fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
-<fixed>Misc</fixed> Other fixes and improvements
+<point>How To Update</point> </br>
+
+<fixed>Stap 01</fixed> SP Mods > Backup And Restore > Backup WhatsApp Data</br>
+
+<fixed>Stap 02</fixed> Uninstall SPWA V34</br>
+
+<fixed>Stap 03</fixed> Install SPWA V35.0</br>
+
+<fixed>Stap 03</fixed> Restore Your WhatsApp Data</br>
 	
 	</p>
     <hr/>
+   
+   
+
+    <h2>What's news in 35.0</h2>
+
+    <hr/>
+    <p>
+	<baseup>Base Update</baseup> Updated to 2.22.2.73</br>
+<point style="font-weight: bold;">Exclusive</point> Mark as Opened/Seen for View Once!<br>
+<point style="font-weight: bold;">Exclusive</point> Mass messenger can send Images/Videos!<br>
+<point style="font-weight: bold;">Exclusive</point> "Save to Gallery" option when Media Visibility is turned off. <br>
+<point>Added</point> New Home screen style<br>
+<point>Added</point> Quick Contact Side bar<br>
+<point>Added</point> Switch Account in Side Menu(Drawer)<br>
+<point>Added</point> Mass Message Sender (Broadcast to many groups/chats) <br>
+<point>Added</point> Option to switch translation mode between in-app or GTranslate app <br>
+<point>Added</point> Buttons to scroll to bottom (newest) and top (oldest) message in in View All Messages screen<br>
+
+
+<fixed>Fixed</fixed> Anti View Once turning opened randomly<br>
+
+<fixed>Fixed</fixed> Contact Name color not taking in status and calls screen<br>
+<fixed>Fixed</fixed> Calls icon not showing in white themes<br>
+<fixed>Fixed</fixed> View Once not loading after "mark as opened"<br>
+<fixed>Fixed</fixed>Modify Chat<br>
+<fixed>Fixed</fixed> SP Mods > Home Screen > Status > 5-minute status<br>
+<fixed>Fixed</fixed> Send images in Full Resolution <br>
+<fixed>Fixed</fixed> Read More... <br>
+
+
+
+	
+	
+		</p>
+    <hr/>
+
 
 
 </body>
