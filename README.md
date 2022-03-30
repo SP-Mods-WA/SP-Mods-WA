@@ -1,11 +1,11 @@
-{ "version": "36.0",
-    "download": "https://youtu.be/bOgCpn5gjsA",
+{ "version": "37.0",
+    "download": "https://youtu.be/D5BIa5GZqcU",
      "update":
      [ { "languaje": "en",
-         "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/SP-Mods-WA/68a55ae7a7191f9224bb557e44d1e519d269528c/Chagelog" },
+         "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/SP-Mods-WA/03116418bc0919d55fc5bb728368709c319b7198/Chagelog" },
           { "languaje": "es",
-         "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/SP-Mods-WA/68a55ae7a7191f9224bb557e44d1e519d269528c/Chagelog" },
-        { "languaje": "pt", "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/SP-Mods-WA/68a55ae7a7191f9224bb557e44d1e519d269528c/Chagelog"
+         "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/SP-Mods-WA/03116418bc0919d55fc5bb728368709c319b7198/Chagelog" },
+        { "languaje": "pt", "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/SP-Mods-WA/03116418bc0919d55fc5bb728368709c319b7198/Chagelog"
    }
    ]
  }
