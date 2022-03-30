@@ -7,29 +7,36 @@
 
 <body>
 
-                <h2>SP WhatsApp V36</h2>
-    <date>2022/02/25</date>
+                    <h2>SP WhatsApp V37</h2>
+    <date>2022/03/30</date>
     <hr/>
     <p>
-	<baseup>Fix Update</baseup> Updated to 2.22.2.73</br>
+<point>Added</point> Chat List Animation(chat screen)<br>
+<point>Added</point> Chat List Animation(main screen)<br>
 
-<point>Added</point> Menu List<br>
-<point>Added</point>  Encrypt Message<br>
-<point>Added</point> New Home screen style<br>
-<point>Added</point> Switch Account in Menu<br>
+<point>Added</point> View pager Transformer Animation <br>
 
-<fixed>Fixed</fixed> Quick Contact Side bar Message Count Not Working<br>
+<point>Added</point> Toast Settings Customizations<br>
 
-<fixed>Fixed</fixed> In-app translation crash when no internet<br>
-<fixed>Fixed</fixed> View All User messages not working for big groups<br>
+<point>Added</point> Copy Caption feature for media (image/video)<br>
+-Select image/video > 3-dot > Copy Caption<br>
+<point>Added</point> Ability to set "Search Web" or use Emoji for Profile Photo <br>
+<point>Enable</point> Reactions feature (Long press any msg) <br>
+<point>Enable</point> Pause and resume voice note recording <br>
+<point>Enable</point> New Privacy Settings (contacts except) for Last Seen and Profile Photo <br>
+<fixed>Fixed</fixed> Dark Themes issues<br/>
+<fixed>Fixed</fixed> False anti-virus/anti-malware reports<br/>
+<fixed>Fixed</fixed> Voice notes blue mic icon issue in home screen<br/>
+<fixed>Fixed</fixed> Video Call confirmation<br/>
+<fixed>Fixed</fixed> WA Bots Menu not clickable<br/>
+<fixed>Fixed</fixed> Mute indicator in WAMOD row style<br/>
+<fixed>Fixed</fixed> Translate messages shows copied message<br/>
+<fixed>Misc</fixed> Improved Anti-ban<br>
+<fixed>Misc</fixed> Many other fixes and improvements that we forgot :p<br/>
 
-
-
-
-	
-	
-		</p>
+	</p>
     <hr/>
+	
 
 
 
