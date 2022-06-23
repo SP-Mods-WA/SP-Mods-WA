@@ -7,47 +7,32 @@
 
 <body>
 
-                        <h2 style="color: #008069"> SP WhatsApp V38</h2>
-    <date>2022/06/12</date>
+                            <h2 style="color: #008069">SP WhatsApp V39.F</h2>
+    <date>2022/06/23</date>
     <hr/>
     <p>
-	
-	<baseup>Base Update</baseup> Updated to 2.22.10.73 - Play Store<br>
+   
 
-<point style="font-weight: bold;">Exclusive</point> Added Call Rejection type options <br>
-<point style="font-weight: bold;">Exclusive</point> Double Tap to Like 👍 a msg! <br>
-<point>Enable</point> Privacy "my contacts except..." feature  <br>
+   	
+<point>Added</point> select emoji option for double tap to like/reaction<br>
+<point>Added</point> Status Maker<br>
+<point>Added</point> Profile Picture Border (SPMods >> Settings >> Conversation row >> Profile Picture )<br>
+<point>Added</point> Avater Size Change Option (SPMods >> Settings >> Conversation row >> Profile Picture )<br>
 
+<fixed>Fixed</fixed> Toast Not Working (profile, status, online)<br/>
+<fixed>Fixed</fixed> Quick Message<br/>
+<fixed>Fixed</fixed> Voice notes blue mic icon issue in home screen<br/>
+<fixed>Fixed</fixed> Calls crash some phone<br/>
+<fixed>Fixed</fixed> WA Bots Menu not clickable<br/>
+<fixed>Fixed</fixed> Wave home screen<br/>
+<fixed>Fixed</fixed> Translate messages shows copied message<br/>
+<fixed>Fixed</fixed> Search bar crash some phone<br/>
 
-
-
-<point>Added</point> Drawer Color Change options<br>
-<point>Added</point> Know who blocked you<br>
-<point>Enable</point> Video upload quality<br>
-<point>Enable</point> Elevating profile and profile name <br>
-
-<point>Enable</point> Send any emoji as reactions. Click "+" icon <br>
-<point>Enable</point> Listen to voice note after chat exit in background <br>
-<point>Added</point> "No internet (stays "Calling")" option for Call rejection type 📲👻 <br>
-<point>Added</point> "Direct Contact Link" option for chats (Chat > 3-dots). <br>— Allows you to share any whatsapp contact quickly, without sending your saved details <br>
-<point>Added</point> Confirm before sending Status (image/video) option <br>
-<point>Added</point> "Chat Backup" option to crash page <br>
-<point>Added</point> more in-chat translate languages: "Vietnamese", "Tamil", "Urdu", "Gujarati", "Punjabi", "Bengali" <br>
-<point>Added</point> Ability to set "Search Web" or use Emoji for Profile Photo <br>
-<fixed>Misc</fixed> SPThemes and Backup/Restore settings page now show folder location <br>
-<fixed>Misc</fixed> SPThemes folder moved  to /Download/SPThemes<br>
-<fixed>Misc</fixed> Now can be installed on top of other mods directly.<br>
-<fixed>Improved</fixed> Start moving to WA new folder location<br>
-<fixed>Improved</fixed> SPMods settings Translation<br>
-<fixed>Misc</fixed> Improved Anti-ban<br>
-<fixed>Misc</fixed> Many other fixes and improvements that we forgot :p<br/>
 <fixed>Misc</fixed> Other fixes and improvements<br/>
-<fixed style="font-weight: bold; text-decoration: underline;">IMP Note:<br></a><i> Reactions to message will mark as read (if hide blue tick is enabled). No need to reply after to make blue tick!.</fixed>
 
-	
-	    </p>
+	</p>
     <hr/>
-
+	
 
 
 </body>
