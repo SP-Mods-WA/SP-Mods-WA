@@ -1,4 +1,4 @@
-{ "version": "45.0",
+{ "version": "46.0",
     "download": "https://spmods2.blogspot.com/2023/01/sp-whatsapp.html",
      "update":
      [ { "languaje": "en",
