@@ -1,4 +1,4 @@
-{ "version": "47.0",
+{ "version": "48.0",
     "download": "https://spmods2.blogspot.com/p/download.html",
      "update":
      [ { "languaje": "en",
