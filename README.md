@@ -1,5 +1,5 @@
 { "version": "51.0",
-    "download": "https://spmods2.blogspot.com/p/download.html",
+    "download": "https://youtu.be/NNUzDg3D_Ws",
      "update":
      [ { "languaje": "en",
          "changelog": "https://raw.githubusercontent.com/SP-Mods-WA/msg/main/README.md" },
