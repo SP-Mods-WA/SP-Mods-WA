@@ -1,0 +1,2 @@
+versionName=35.5
+webpageUrl=https://spmods.download/
