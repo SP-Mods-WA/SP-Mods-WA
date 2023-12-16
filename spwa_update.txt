@@ -1,2 +1,2 @@
-versionName=50.1
+versionName=50.2
 webpageUrl=https://spmods.download/p/download.html
