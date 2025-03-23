@@ -1,2 +1,2 @@
-versionName=52.0
-webpageUrl=https://www.spmods.download
+versionName=53.0
+webpageUrl=https://t.me/SPModsSandun
