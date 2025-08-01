@@ -1,2 +1,2 @@
-versionName=54.2
+versionName=55.0
 webpageUrl=https://t.me/SPModsSandun
