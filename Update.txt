@@ -1,4 +1,5 @@
-{'ver1':'20', 'ver2':'2', 'ver3':'\n• [Fix Update].\n• It contains many great new features.\n• More important fixes and improvements.\n' , 'dli':'https://spmods.download'}
+{'ver1':'55', 'ver2':'1', 'ver3':'\n• [Fix Update].\n• It contains many great new features.\n• More important fixes and improvements.\n' , 'dli':'https://spmods.download'}
+
 
 
 
