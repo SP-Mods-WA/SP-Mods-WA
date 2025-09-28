@@ -1,9 +1,1 @@
-{'ver1':'56', 'ver2':', 'ver3':'\n• [⏫ Base Updated] 2.25.21.82 — Play Store.\n• Improved You can now send videos to chats or status in high quality.\n• New Enable many other features.\n• Fixed linking issue.\n• New Enable many other features.\n• Fixed Permanently fixed app freezing issue.\n• Fixed the divider line between conversations on the main screen.\n• Fixed the custom media auto-download settings for chats and groups.\n• Fixed the ✂️ video trimming feature for status.\n• Fixed the hiding of archived chats from the main screen.\n• Misc General bug fixes.\n• Misc Other fixes and improvements.\n' , 'dli':'https://spmods.download'}
-
-
-
-
-
-
-
-
+{'ver1':'56', 'ver2':'1', 'ver3':'\n• [⏫ Fix Updated].\n• Added More AI Chat Assistants.\n• Fixed Device linking now works 100% reliably.\n• New Enable many other features.\n• Fixed Permanently fixed app freezing issue.\n• Fixed the divider line between conversations on the main screen.\n• Fixed the custom media auto-download settings for chats and groups.\n• Fixed the hiding of archived chats from the main screen.\n• Misc General bug fixes.\n• Misc Other fixes and improvements.\n' , 'dli':'https://spmods.download'}
