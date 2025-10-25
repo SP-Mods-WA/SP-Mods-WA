@@ -1,3 +1,4 @@
-{'ver1':'57', 'ver2':', 'ver3':'\n• [⏫ Base Updated].\n• 2.25.26.74 Play-Store.\n• Fixed Device linking now works 100% reliably.\n• New Enable many other features.\n• Fixed Auto Logout issue.\n• Fixed Number Login issue.\n• Fixed Disable Blue Ticks Not Working.\n• Fixed Banned Number Login 90%.\n• Misc General bug fixes.\n• Misc Other fixes and improvements.\n' , 'dli':'https://spmods.download'}
+{'ver1':'56', 'ver2':'3', 'ver3':'\n• [⏫ Base Updated].\n• 2.25.26.74 Play-Store.\n• Fixed Device linking now works 100% reliably.\n• New Enable many other features.\n• Fixed Auto Logout issue.\n• Fixed Number Login issue.\n• Fixed Disable Blue Ticks Not Working.\n• Fixed Banned Number Login 90%.\n• Misc General bug fixes.\n• Misc Other fixes and improvements.\n' , 'dli':'https://spmods.download'}
+
 
 
