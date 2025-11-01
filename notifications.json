@@ -16,7 +16,7 @@
     },
     {
       "id": "promo_offer",
-      "version": 1,
+      "version": 2,
       "enabled": false,
       "title": "Special Offer",
       "message": "Get premium features for free!"
