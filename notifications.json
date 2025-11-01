@@ -1,12 +1,12 @@
 {
   "notifications": [
     {
-      "id": "up_0",
+      "id": "spwa_0",
       "enabled": true,
-      "version": 2,
+      "version": 1,
       "title": "Welcome to SP WhatsApp!",
       "message": "Thanks for installing. Check out new features!",
-      "url": "https://www.spmods.download"
+      "url": ""
     }
   ]
 }
