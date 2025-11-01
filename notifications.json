@@ -1,12 +1,16 @@
 {
-  "id": "notif_new_001",
-  "title": "ඔබේ Title එක",
-  "message": "ඔබේ Message එක",
-  "priority": "normal",
-  "enabled": true,
-  "show_once": true,
-  "min_app_version": "1.0.0",
-  "max_app_version": "999.0.0",
-  "expire_date": "2025-12-31T23:59:59Z",
-  "language": "si"
+  "notifications": [
+    {
+      "id": "notif_001",
+      "title": "නව Update එකක්!",
+      "message": "SP WhatsApp හි නව features බලන්න",
+      "enabled": true
+    },
+    {
+      "id": "notif_002", 
+      "title": "දැනුම්දීම 2",
+      "message": "මෙය test message එකක්",
+      "enabled": true
+    }
+  ]
 }
