@@ -1,7 +1,7 @@
 {
   "notifications": [
     {
-      "id": "welcome_2025",
+      "id": "welcome",
       "version": 1,
       "enabled": true,
       "title": "Welcome to SP WhatsApp!",
