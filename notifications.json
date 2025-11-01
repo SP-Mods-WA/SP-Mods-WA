@@ -15,11 +15,11 @@
       "message": "Version 2.5 is now available with dark mode!"
     },
     {
-      "id": "promo_offer",
-      "version": 2,
-      "enabled": false,
-      "title": "Special Offer",
-      "message": "Get premium features for free!"
+  "id": "first_notif",
+  "version": 1,
+  "enabled": true,
+  "title": "Hello!✨",
+  "message": "✅ Test SPWA Notification"
     }
   ]
 }
