@@ -1,4 +1,13 @@
 {
-    "VERSION_NAME": "1.1",
-    "WEBSITE_URL": "https://t.me/SPModsSandun"
+  "enabled": true,
+  "title": "Update Available! 🚀",
+  "message": "A new version of SP WhatsApp is available with amazing features. Tap to download now!",
+  "download_url": "https://github.com/SP-Mods-WA/SP-Mods-WA/releases/latest",
+  "minimum_version_code": 250,
+  "version_name": "2.5.0",
+  "release_notes": [
+    "New dark mode theme",
+    "Improved performance",
+    "Bug fixes and stability improvements"
+  ]
 }
