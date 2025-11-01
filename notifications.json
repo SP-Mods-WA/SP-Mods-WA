@@ -1,74 +1,12 @@
 {
-  "version": "1.0",
-  "last_updated": "2025-01-15T10:00:00Z",
-  "notifications": [
-    {
-      "id": "notif_001",
-      "title": "ආයුබෝවන් SP WhatsApp වෙත!",
-      "message": "SP WhatsApp භාවිතා කිරීම ගැන ස්තූතියි. නව features භුක්ති විඳින්න! 🎉",
-      "priority": "normal",
-      "enabled": true,
-      "show_once": true,
-      "min_app_version": "1.0.0",
-      "max_app_version": "999.0.0",
-      "expire_date": "2025-12-31T23:59:59Z",
-      "language": "si"
-    },
-    {
-      "id": "notif_002",
-      "title": "🎊 විශේෂ දැනුම්දීමක්",
-      "message": "අපගේ නව features පරීක්ෂා කර බලන්න. Settings වෙත යන්න!",
-      "priority": "high",
-      "enabled": true,
-      "show_once": true,
-      "min_app_version": "1.0.0",
-      "max_app_version": "999.0.0",
-      "expire_date": "2025-06-30T23:59:59Z",
-      "language": "si"
-    },
-    {
-      "id": "notif_003",
-      "title": "🔔 Important Notice",
-      "message": "Please backup your chats regularly. Go to Settings → Chats → Chat backup",
-      "priority": "normal",
-      "enabled": true,
-      "show_once": false,
-      "min_app_version": "1.0.0",
-      "max_app_version": "999.0.0",
-      "expire_date": "2025-12-31T23:59:59Z",
-      "language": "en",
-      "show_interval_days": 7
-    },
-    {
-      "id": "notif_004",
-      "title": "⭐ Rate Us",
-      "message": "SP WhatsApp ගැන කැමතිද? අපව rate කර support කරන්න!",
-      "priority": "low",
-      "enabled": true,
-      "show_once": true,
-      "min_app_version": "1.0.0",
-      "max_app_version": "999.0.0",
-      "expire_date": "2025-12-31T23:59:59Z",
-      "language": "si",
-      "min_days_since_install": 7
-    },
-    {
-      "id": "notif_005",
-      "title": "🎁 Special Offer",
-      "message": "Premium features දැන් නොමිලේ! දැන්ම activate කරන්න.",
-      "priority": "high",
-      "enabled": false,
-      "show_once": true,
-      "min_app_version": "2.0.0",
-      "max_app_version": "999.0.0",
-      "expire_date": "2025-03-31T23:59:59Z",
-      "language": "si",
-      "action_url": "spwhatsapp://premium"
-    }
-  ],
-  "settings": {
-    "check_interval_minutes": 360,
-    "max_notifications_per_day": 3,
-    "notification_cooldown_hours": 24
-  }
+  "id": "notif_new_001",
+  "title": "ඔබේ Title එක",
+  "message": "ඔබේ Message එක",
+  "priority": "normal",
+  "enabled": true,
+  "show_once": true,
+  "min_app_version": "1.0.0",
+  "max_app_version": "999.0.0",
+  "expire_date": "2025-12-31T23:59:59Z",
+  "language": "si"
 }
