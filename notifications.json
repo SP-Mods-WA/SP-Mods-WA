@@ -1,25 +1,12 @@
 {
   "notifications": [
     {
-      "id": "welcome",
-      "version": 1,
+      "id": "up_0",
       "enabled": true,
+      "version": 2,
       "title": "Welcome to SP WhatsApp!",
-      "message": "Thanks for installing. Check out new features!"
-    },
-    {
-      "id": "update_nov_2024",
-      "version": 1,
-      "enabled": true,
-      "title": "New Update Available",
-      "message": "Version 2.5 is now available with dark mode!"
-    },
-    {
-  "id": "first_notif",
-  "version": 1,
-  "enabled": true,
-  "title": "Hello!✨",
-  "message": "✅ Test SPWA Notification"
+      "message": "Thanks for installing. Check out new features!",
+      "url": "https://www.spmods.download"
     }
   ]
 }
