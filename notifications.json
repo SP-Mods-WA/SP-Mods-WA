@@ -1,16 +1,25 @@
 {
   "notifications": [
     {
-      "id": "notif_001",
-      "title": "SP Mods ©2025✨",
-      "message": "✅ Tested SP WhatsApp Notifications Service",
-      "enabled": true
+      "id": "welcome_2024",
+      "version": 1,
+      "enabled": true,
+      "title": "Welcome to SP WhatsApp!",
+      "message": "Thanks for installing. Check out new features!"
     },
     {
-      "id": "notif_002", 
-      "title": "Test"
-      "message": "SPWA 🚀",
-      "enabled": true
+      "id": "update_nov_2024",
+      "version": 1,
+      "enabled": true,
+      "title": "New Update Available",
+      "message": "Version 2.5 is now available with dark mode!"
+    },
+    {
+      "id": "promo_offer",
+      "version": 1,
+      "enabled": false,
+      "title": "Special Offer",
+      "message": "Get premium features for free!"
     }
   ]
 }
