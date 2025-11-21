@@ -3,12 +3,13 @@
   "title": "Update Available! 🚀",
   "message": "A new version of SP WhatsApp is available with amazing features. Tap to download now!",
   "download_url": "https://www.spmods.download",
-  "minimum_version_code": 250,
-  "version_name": "2.5.0",
+  "minimum_version_code": 58,
+  "version_name": "2.5.8",
   "release_notes": [
     "New dark mode theme",
     "Improved performance",
     "Bug fixes and stability improvements"
   ]
 }
+
 
