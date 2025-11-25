@@ -1,1 +1,2 @@
-{'ver1':'57', 'ver2':'1', 'ver3':'\n• [⏫ Base Updated].\n• Fixed Some device app opening crash.\n• Fixed Status view Crash.\n• Fixed Chat Opening Crash.\n• Misc General bug fixes.\n• Misc Other fixes and improvements.\n' , 'dli':'https://spmods.download'}
+{'ver1':'58', 'ver2':'0', 'ver3':'\n• [⏫ Base Updated].\n• Fixed Some device app opening crash.\n• Fixed Status view Crash.\n• Fixed Chat Opening Crash.\n• Misc General bug fixes.\n• Misc Other fixes and improvements.\n' , 'dli':'https://spmods.download'}
+
