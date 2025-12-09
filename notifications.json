@@ -7,6 +7,14 @@
       "title": "Welcome to SP WhatsApp!",
       "message": "Thanks for installing. Check out new features!",
       "url": ""
+    },
+    {
+      "id": "spwa_user_01",
+      "enabled": true,
+      "version": 1,
+      "title": "SPMods Official",
+      "message": "This is a test notification for users",
+      "url": ""
     }
   ]
 }
