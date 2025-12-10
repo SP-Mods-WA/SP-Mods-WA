@@ -9,12 +9,12 @@
       "url": ""
     },
     {
-      "id": "spwa_user_01",
+      "id": "spwa_user_02",
       "enabled": true,
       "version": 1,
       "title": "SPMods Official",
-      "message": "This is a test notification for users",
-      "url": ""
+      "message": "Hi User, Follow Our TikTok Page",
+      "url": "https://www.tiktok.com/@sandun_piumal?_r=1&_t=ZS-926BY4A8DnL"
     }
   ]
 }
