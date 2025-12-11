@@ -3,14 +3,15 @@
   "title": "Update Available! 🚀",
   "message": "A new version of SP WhatsApp is available with amazing features. Tap to download now!",
   "download_url": "https://t.me/SPModsSandun",
-  "minimum_version_code": 59,
-  "version_name": "2.25.28.79",
+  "minimum_version_code": 60,
+  "version_name": "2.25.28.79_",
   "release_notes": [
     "New dark mode theme",
     "Improved performance",
     "Bug fixes and stability improvements"
   ]
 }
+
 
 
 
