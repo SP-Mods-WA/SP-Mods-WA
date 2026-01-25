@@ -3,39 +3,15 @@
   "last_updated": "2026-01-24T10:00:00Z",
   "notifications": [
     {
-      "id": "notif_001",
-      "title": "නව Update එකක් ලබා ගත හැක",
-      "message": "YT Pro v2.5 release වුණා. අලුත් features බලන්න!",
-      "type": "update",
-      "priority": "high",
-      "icon_url": "https://example.com/icon.png",
-      "action_url": "https://github.com/SP-Mods-WA/Yt/releases/latest",
-      "timestamp": "2026-01-24T10:00:00Z",
-      "show_until": "2026-01-31T23:59:59Z",
-      "is_dismissible": true
-    },
-    {
-      "id": "notif_002",
+      "id": "notif_004",
       "title": "Important Notice",
-      "message": "Server maintenance on Jan 25th. App may be slow.",
+      "message": "Server maintenance on Jan 26th. App may be slow.",
       "type": "info",
       "priority": "medium",
       "icon_url": "",
       "action_url": "",
       "timestamp": "2026-01-23T15:00:00Z",
       "show_until": "2026-01-26T00:00:00Z",
-      "is_dismissible": true
-    },
-    {
-      "id": "notif_003",
-      "title": "නව Feature එකක්!",
-      "message": "Gemini AI integration එකතු වුණා. Try කරලා බලන්න!",
-      "type": "feature",
-      "priority": "low",
-      "icon_url": "",
-      "action_url": "ytpro://features",
-      "timestamp": "2026-01-20T08:00:00Z",
-      "show_until": "2026-02-01T00:00:00Z",
       "is_dismissible": true
     }
   ],
