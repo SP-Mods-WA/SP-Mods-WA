@@ -3,9 +3,9 @@
   "last_updated": "2026-01-24T10:00:00Z",
   "notifications": [
     {
-      "id": "notif_004",
-      "title": "Important Notice",
-      "message": "Server maintenance on Jan 26th. App may be slow.",
+      "id": "notif_005",
+      "title": "Welcome to YouTube Pro (SPMods)!",
+      "message": "Thanks for installing. Check out new features!",
       "type": "info",
       "priority": "medium",
       "icon_url": "",
