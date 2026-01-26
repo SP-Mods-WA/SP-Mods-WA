@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.0.0",
-  "latestVersionCode": 1,
-  "updateTitle": "නව යාවත්කාලීනයක් තිබේ!",
-  "updateMessage": "Version 2.0.0 සමඟ:\n\n• වේගවත් performance\n• Bug fixes\n• නව features\n\nදැන්ම update කරන්න!",
-  "downloadUrl": "https://github.com/YOUR-USERNAME/YOUR-REPO/releases/download/v2.0.0/YTPro.apk",
+  "latestVersion": "1.1.0",
+  "latestVersionCode": 2,
+  "updateTitle": "Update Available! 🚀",
+  "updateMessage": "Version 1.1.0:\n\n• Faster performance\n• Bug fixes\n• New features\n\nUpdate now!",
+  "downloadUrl": "https://www.spmods.download",
   "forceUpdate": false
 }
