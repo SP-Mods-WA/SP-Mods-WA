@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.0",
-  "latestVersionCode": 2,
+  "latestVersion": "1.2.0",
+  "latestVersionCode": 3,
   "updateTitle": "Update Available! 🚀",
-  "updateMessage": "Version 1.1.0:\n\n• Faster performance\n• Bug fixes\n• New features\n\nUpdate now!",
+  "updateMessage": "Version 1.2.0:\n\n• Faster performance\n• Bug fixes\n• New features\n\nUpdate now!",
   "downloadUrl": "https://www.spmods.download",
   "forceUpdate": false
 }
