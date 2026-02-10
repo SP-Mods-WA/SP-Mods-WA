@@ -1,0 +1,9 @@
+{
+  "latestVersion": "2.0.0",
+  "latestVersionCode": 2,
+  "updateTitle": "Update Available!",
+  "updateMessage": "New features and improvements are ready to download.",
+  "downloadUrl": "https://www.spmods.download",
+  "updateSize": "48MB",
+  "forceUpdate": false
+}
