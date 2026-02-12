@@ -4,6 +4,6 @@
   "updateTitle": "Update Available!",
   "updateMessage": "New features and improvements are ready to download.",
   "downloadUrl": "https://www.spmods.download",
-  "updateSize": "48MB",
-  "forceUpdate": false
+  "updateSize": "5MB",
+  "forceUpdate": ture
 }
