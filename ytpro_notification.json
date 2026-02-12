@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "last_updated": "2026-01-26T10:00:00Z",
+  "last_updated": "2026-02-12T10:00:00Z",
   "notifications": [
     {
       "id": "notif_007",
@@ -11,6 +11,18 @@
       "icon_url": "",
       "action_url": "",
       "timestamp": "2026-01-23T15:00:00Z",
+      "show_until": "2027-01-26T00:00:00Z",
+      "is_dismissible": true
+    },
+    {
+      "id": "notif_008",
+      "title": "SPMods Official 🎉",
+      "message": "SPYT Pro V2.0 Coming Soon!, Join Our Telegram Channel.",
+      "type": "info",
+      "priority": "medium",
+      "icon_url": "",
+      "action_url": "https://t.me/SPModsSandun",
+      "timestamp": "2026-02-12T15:00:00Z",
       "show_until": "2027-01-26T00:00:00Z",
       "is_dismissible": true
     }
