@@ -15,14 +15,14 @@
       "is_dismissible": true
     },
     {
-      "id": "notif_008",
+      "id": "notif_009",
       "title": "SPMods Official 🎉",
-      "message": "SPYT Pro V2.0 Coming Soon!, Join Our Telegram Channel.",
+      "message": "SPYT Pro V2.0 Released!, Check out new features.",
       "type": "info",
-      "priority": "medium",
+      "priority": "high",
       "icon_url": "",
       "action_url": "https://t.me/SPModsSandun",
-      "timestamp": "2026-02-12T15:00:00Z",
+      "timestamp": "2026-02-14T16:45:00Z",
       "show_until": "2027-01-26T00:00:00Z",
       "is_dismissible": true
     }
