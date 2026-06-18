@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "versionCode": 10,
+  "version": "0.1.1",
+  "versionCode": 11,
   "description": "SPGram update",
   "changelog": ["Bug fixes", "Performance improvements"],
   "downloadUrl": "https://www.spmods.download/spgram-1.2.3.apk",
