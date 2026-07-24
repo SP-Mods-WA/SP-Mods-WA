@@ -1,10 +1,10 @@
 {
-  "version": "0.1.0",
-  "versionCode": 10,
+  "version": "0.1.1",
+  "versionCode": 11,
   "description": "SPGram update",
-  "changelog": ["Bug fixes", "Performance improvements"],
+  "changelog": ["Added view once media not expired", "Added Download Manager", "Added Story functions", "Bug fixes", "Performance improvements"],
   "downloadUrl": "https://www.spmods.download",
   "fileName": "spgram.apk",
   "fileSize": 52428800,
-  "forceUpdate": false
+  "forceUpdate": true
 }
