@@ -6,5 +6,5 @@
   "downloadUrl": "https://www.spmods.download",
   "fileName": "spgram.apk",
   "fileSize": 52428800,
-  "forceUpdate": true
+  "forceUpdate": false
 }
